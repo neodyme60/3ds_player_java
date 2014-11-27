@@ -1,0 +1,43 @@
+<fuzz>
+    <primitives>
+        <solid>
+            <mesh name="" type="solid">
+                <vertex>
+                    <v x="" y="" z="" u="" v="" r="" g="" b=""/>
+                </vertex>
+                <faces>
+                    <f a="" b="" c=""/>
+                </faces>
+            </mesh>
+            <mesh name="" type="procedural">
+            </mesh>
+        </solid>
+        <cameras>
+            <camera name="" type="target">
+                <eye fov="">
+                    <eye x="" y="" z=""/>
+                    <up x="" y="" z=""/>
+                </eye>
+                <target>
+                    <at x="" y="" z=""/>
+                </target>
+            </camera>
+        </cameras>
+        <lights>
+            <light name="" type="directional">
+            </light>
+        </lights>
+    </primitives>
+    <keyframers>
+        <keyframer name="" primitive_reference="" loop="true" duration="">
+            <keys>
+                <key time="">
+                    <t x="" y="" z=""/>
+                    <r x="" y="" z=""/>
+                    <s x="" y="" z=""/>
+                    <f v=""/>
+                </key>
+            </keys>
+        </keyframer>
+    </keyframers>
+</fuzz>
