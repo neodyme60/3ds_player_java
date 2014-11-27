@@ -1,0 +1,12 @@
+#
+#rendering size and params
+#(int) xsize,(int) ysize,(int) swapp effect,(true/false) id buffer, (int) filter
+#
+#swap effect:  0=nothing 1= zoom table
+#id buffer:    usr id buffer or not 
+#filter:       post pro filter, 0=no filter 1...2.3
+#frameRate:  20
+
+RENDERING 560 400 0 false 1 5
+#RENDERING 156 140 0 false 0 20
+

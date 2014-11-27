@@ -3,7 +3,7 @@ This player can render in real time most of 3ds format specifications.
 Support:
 
 *animation and keyframing : scaling / rotation / translation / Fov 
-*flat / gouraud/ mapping / transparency / wireframe
+*flat / gouraud / phong / mapping / transparency / wireframe
 *dummy object
 
 ![alt text](https://github.com/neodyme60/3ds_player_java/blob/master/doc/birdwalk.png "Logo Title Text 1")
